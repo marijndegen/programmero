@@ -1,0 +1,22 @@
+{
+  "name": "e2e-programmero",
+  "version": "1.0.0",
+  "description": "end to end tests of programmero ",
+  "main": "server.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "dotenv": "^6.2.0",
+    "jest": "^23.6.0",
+    "puppeteer": "^1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
